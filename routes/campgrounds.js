@@ -15,7 +15,7 @@ const {
   deleteOneCampground,
 } = require("../controllers/campgrounds");
 
-//Image Upload
+//Image Upload. We upload images to cloudinary.
 const multer = require("multer");
 const { storage } = require("../cloudinary/index");
 const upload = multer({ storage: storage });
