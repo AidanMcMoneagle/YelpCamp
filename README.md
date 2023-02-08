@@ -1,5 +1,5 @@
 # YelpCamp
-Welcome to YelCamp. This project will built with tutorials as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>Colt Steele's Web Developer Bootcamp Course</a>
+Welcome to YelpCamp. This project will built following a tutorial as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>The Web Developer BootCamp Course</a> by Colt Steele. 
 
 ## Table of Contents
 * [General Info](#general-information)
