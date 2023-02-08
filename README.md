@@ -24,7 +24,7 @@ Welcome to YelpCamp. This project will built following a tutorial as part of <a 
 
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/99369057/217583529-6ecc919b-8210-4b9e-a4dc-17c18b02d8f3.png)
 
 ## Project Status
 Project is: Complete
