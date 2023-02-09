@@ -27,7 +27,7 @@ To view the hosted application and start using the app please use the following 
 ## Features
 - User authenitcation using passport.js 
 - Interactive dot map of campground locations and geocoding of location description using MAPBOX API. 
-- Image Upload to Cloudinary. 
+- Image upload to Cloudinary. 
 
 
 
