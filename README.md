@@ -1,5 +1,7 @@
 # YelpCamp
-Welcome to YelpCamp, a review wesbite for campgrounds. This project was built following a tutorial as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>The Web Developer BootCamp Course</a> by Colt Steele.
+Welcome to YelpCamp, a review wesbite for campgrounds. This project was built following a tutorial as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>The Web Developer BootCamp</a> by Colt Steele.
+
+To view the hosted application and start using the app please use the following URL; https://yelpcamp-course-app.herokuapp.com/
 
 ## Table of Contents
 * [General Info](#general-information)
