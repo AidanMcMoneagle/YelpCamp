@@ -24,7 +24,7 @@ Welcome to YelpCamp, a review wesbite for campgrounds. This project was built fo
 
 ## Features
 - User authenitcation using passport.js 
-- Interactive dot map of camprgound locations and geocoding of location description using MAPBOX API. 
+- Interactive dot map of campground locations and geocoding of location description using MAPBOX API. 
 - Image Upload to Cloudinary. 
 
 
