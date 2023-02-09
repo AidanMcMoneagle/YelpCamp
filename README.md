@@ -1,5 +1,5 @@
 # YelpCamp
-Welcome to YelpCamp. This project was built following a tutorial as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>The Web Developer BootCamp Course</a> by Colt Steele. 
+Welcome to YelpCamp, a website allowing users to leave reviews on campgrounds. This project was built following a tutorial as part of <a href='https://www.udemy.com/course/the-web-developer-bootcamp'>The Web Developer BootCamp Course</a> by Colt Steele.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,7 +10,9 @@ Welcome to YelpCamp. This project was built following a tutorial as part of <a h
 
 
 ## General Information
-
+- Users can create, edit, and remove campgrounds. 
+- Users can only edit and remove campgrounds which they have created. 
+- Users can review campgrounds once, and edit or remove their review. 
 
 ## Technologies Used
 - JavaScript 
@@ -21,6 +23,10 @@ Welcome to YelpCamp. This project was built following a tutorial as part of <a h
 - MongoDB
 
 ## Features
+- User authenitcation using passport.js 
+- Interactive dot map of camprgound locations and geocoding of location description using MAPBOX API. 
+- Image Upload to Cloudinary. 
+
 
 
 ## Screenshots
